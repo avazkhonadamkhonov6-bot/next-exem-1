@@ -1,0 +1,33 @@
+{
+  "HomePage": {
+    "badge": "Современное веб-приложение",
+    "title": "Добро пожаловать в TaskFlow & Showcase",
+    "description": "Быстрый проект на Next.js, Redux Toolkit Query и Tailwind CSS. Исследуйте каталог продуктов и узнайте больше обо мне.",
+    "exploreBtn": "Смотреть продукты",
+    "aboutBtn": "Обо мне"
+  },
+  "Navbar": {
+    "brand": "TaskFlow",
+    "products": "Продукты",
+    "aboutMe": "Обо мне"
+  },
+  "AboutMe": {
+    "badge": "Портфолио разработчика",
+    "title": "Обо мне",
+    "subtitle": "Узнайте больше о моем пути в разработке, обучении и техническом стеке.",
+    "name": "Адамхонов Авазхон",
+    "role": "Junior Frontend Разработчик",
+    "status": "Открыт к проектам и обучению",
+    "birthDateLabel": "Дата рождения",
+    "birthDateValue": "12.03.2008",
+    "courseLabel": "Текущий курс",
+    "courseValue": "В настоящее время изучаю Next.js и современную фронтенд-разработку",
+    "academyLabel": "Академия",
+    "academyValue": "Студент IT-академии SoftClub",
+    "bioTitle": "Биография и цели",
+    "bioText": "Я увлеченный веб-разработчик, создающий интерактивные, быстрые и современные веб-приложения. Углубляю навыки в Next.js, TypeScript, Redux Toolkit и создании качественного UI.",
+    "skillsTitle": "Технический стек",
+    "contactBtn": "Связаться со мной",
+    "projectsBtn": "Посмотреть продукты"
+  }
+}

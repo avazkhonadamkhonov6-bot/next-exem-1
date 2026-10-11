@@ -1,0 +1,33 @@
+{
+  "HomePage": {
+    "badge": "Modern Web Application",
+    "title": "Welcome to TaskFlow & Showcase",
+    "description": "A high-performance fullstack project built with Next.js, Redux Toolkit Query, and Tailwind CSS. Explore products and discover more about me.",
+    "exploreBtn": "View Products",
+    "aboutBtn": "About Me"
+  },
+  "Navbar": {
+    "brand": "TaskFlow",
+    "products": "Products",
+    "aboutMe": "About Me"
+  },
+  "AboutMe": {
+    "badge": "Developer Portfolio",
+    "title": "About Me",
+    "subtitle": "Get to know more about my journey, education, and technical background.",
+    "name": "Adamkhonov Avazkhon",
+    "role": "Junior Frontend Developer",
+    "status": "Available for projects & learning",
+    "birthDateLabel": "Date of Birth",
+    "birthDateValue": "12.03.2008",
+    "courseLabel": "Current Course",
+    "courseValue": "Currently studying Next.js & modern fullstack frontend development",
+    "academyLabel": "Academy",
+    "academyValue": "Proud student at SoftClub IT Academy",
+    "bioTitle": "Biography & Objectives",
+    "bioText": "I am an enthusiastic web developer committed to building interactive, fast, and modern web applications. Currently deepening my expertise in Next.js, TypeScript, Redux Toolkit, and scalable UI engineering.",
+    "skillsTitle": "Core Tech Stack",
+    "contactBtn": "Get In Touch",
+    "projectsBtn": "Explore Products"
+  }
+}

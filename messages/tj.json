@@ -1,0 +1,33 @@
+{
+  "HomePage": {
+    "badge": "Веб-замимаи замонавӣ",
+    "title": "Хуш омадед ба TaskFlow & Showcase",
+    "description": "Лоиҳаи босуръат бо истифодаи Next.js, Redux Toolkit Query ва Tailwind CSS. Маҳсулотҳоро бубинед ва дар бораи ман маълумот гиред.",
+    "exploreBtn": "Дидани маҳсулотҳо",
+    "aboutBtn": "Дар бораи ман"
+  },
+  "Navbar": {
+    "brand": "TaskFlow",
+    "products": "Маҳсулотҳо",
+    "aboutMe": "Дар бораи ман"
+  },
+  "AboutMe": {
+    "badge": "Портфолиои барномасоз",
+    "title": "Дар бораи ман",
+    "subtitle": "Дар бораи таҳсил, маҳорат ва роҳи ман дар соҳаи барномасозӣ шинос шавед.",
+    "name": "Адамхонов Авазхон",
+    "role": "Junior Frontend Барномасоз",
+    "status": "Омода барои омӯзиш ва лоиҳаҳои нав",
+    "birthDateLabel": "Соли таваллуд",
+    "birthDateValue": "12.03.2008",
+    "courseLabel": "Курси таълимӣ",
+    "courseValue": "Ман айни замон дар курси Next.js мехонам",
+    "academyLabel": "Академия",
+    "academyValue": "Ман донишҷӯи Академияи Софтклаб ҳастам",
+    "bioTitle": "Тарҷумаи ҳол ва ҳадафҳо",
+    "bioText": "Ман барномасози веб ҳастам, ки сохтани веб-барномаҳои замонавӣ, босуръат ва зеборо бо React, Next.js ва Redux Toolkit меомӯзам ва амалӣ мекунам.",
+    "skillsTitle": "Стеки техникӣ",
+    "contactBtn": "Тамос бо ман",
+    "projectsBtn": "Дидани маҳсулотҳо"
+  }
+}
